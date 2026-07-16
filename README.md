@@ -36,13 +36,8 @@ The module also requires Sequencer. Install Sequencer first if it is not already
 
 ## Testing
 
-After enabling the module and Sequencer, any user can run this in the browser console:
-
-```js
-game.modules.get("ptr2e-super-effective-announcer").api.play()
-```
-
 Normal use requires no macro. A PTR2e attack with an effectiveness multiplier above x1 triggers the announcement automatically.
+
 
 ## Notes
 
