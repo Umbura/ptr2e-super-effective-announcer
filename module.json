@@ -1,0 +1,57 @@
+{
+  "id": "ptr2e-super-effective-announcer",
+  "title": "PTR2e Super Effective Announcer",
+  "description": "Plays a synchronized screen-space animation and sound when PTR2e resolves a super-effective attack.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "PTR2e Module Extensions"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "ptr2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.7.5"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {
+          "minimum": "4.2.0"
+        },
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-Sequencer/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "socket": true,
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Portugues (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "url": "https://github.com/Umbura/ptr2e-super-effective-announcer",
+  "bugs": "https://github.com/Umbura/ptr2e-super-effective-announcer/issues",
+  "readme": "https://github.com/Umbura/ptr2e-super-effective-announcer#readme",
+  "manifest": "https://raw.githubusercontent.com/Umbura/ptr2e-super-effective-announcer/main/module.json",
+  "download": "https://github.com/Umbura/ptr2e-super-effective-announcer/archive/refs/heads/main.zip"
+}

@@ -1,0 +1,13 @@
+{
+  "PTR2ESEA.Settings.Enabled.Name": "Enable Super Effective Announcer",
+  "PTR2ESEA.Settings.Enabled.Hint": "Play the announcement when a PTR2e attack resolves with type effectiveness above x1.",
+  "PTR2ESEA.Settings.PlaySound.Name": "Play Announcement Sound",
+  "PTR2ESEA.Settings.PlaySound.Hint": "Play the synchronized 8-bit sound with the animation.",
+  "PTR2ESEA.Settings.Volume.Name": "Announcement Volume",
+  "PTR2ESEA.Settings.Volume.Hint": "Set the sound volume for all connected users.",
+  "PTR2ESEA.Settings.ScreenWidth.Name": "Animation Screen Width",
+  "PTR2ESEA.Settings.ScreenWidth.Hint": "Set the animation width as a proportion of the Foundry viewport.",
+  "PTR2ESEA.Settings.TopOffset.Name": "Animation Top Offset",
+  "PTR2ESEA.Settings.TopOffset.Hint": "Set the animation distance in pixels from the top of the Foundry viewport.",
+  "PTR2ESEA.Errors.SequencerUnavailable": "PTR2e Super Effective Announcer requires an active Sequencer module."
+}

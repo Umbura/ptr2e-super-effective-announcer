@@ -1,0 +1,13 @@
+{
+  "PTR2ESEA.Settings.Enabled.Name": "Ativar anuncio de super efetivo",
+  "PTR2ESEA.Settings.Enabled.Hint": "Reproduz o anuncio quando um ataque do PTR2e e resolvido com efetividade de tipo acima de x1.",
+  "PTR2ESEA.Settings.PlaySound.Name": "Reproduzir som do anuncio",
+  "PTR2ESEA.Settings.PlaySound.Hint": "Reproduz o som 8-bit sincronizado com a animacao.",
+  "PTR2ESEA.Settings.Volume.Name": "Volume do anuncio",
+  "PTR2ESEA.Settings.Volume.Hint": "Define o volume do som para todos os usuarios conectados.",
+  "PTR2ESEA.Settings.ScreenWidth.Name": "Largura da animacao",
+  "PTR2ESEA.Settings.ScreenWidth.Hint": "Define a largura da animacao como proporcao da tela do Foundry.",
+  "PTR2ESEA.Settings.TopOffset.Name": "Distancia do topo",
+  "PTR2ESEA.Settings.TopOffset.Hint": "Define a distancia da animacao, em pixels, a partir do topo da tela do Foundry.",
+  "PTR2ESEA.Errors.SequencerUnavailable": "PTR2e Super Effective Announcer precisa do modulo Sequencer ativo."
+}
