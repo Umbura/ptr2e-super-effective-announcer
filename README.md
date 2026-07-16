@@ -4,6 +4,8 @@ Foundry VTT module for Pokemon Tabletop Reunited: Evolved.
 
 This module plays a synchronized screen-space animation and sound when a PTR2e attack resolves with a super-effective type matchup.
 
+![PTR2e Super Effective Announcer preview](docs/screenshot.png)
+
 ## Installation
 
 Paste this manifest URL into Foundry's **Install Module** dialog:
