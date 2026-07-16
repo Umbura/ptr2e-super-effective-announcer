@@ -48,5 +48,3 @@ Normal use requires no macro. A PTR2e attack with an effectiveness multiplier ab
 ## Asset Attribution
 
 The bundled announcement audio and animation are derived from Heroes of Newerth resources distributed through [Project KONGOR Open Source](https://github.com/Project-KONGOR-Open-Source). Heroes of Newerth intellectual property belongs to Garena.
-
-This module is an independent Foundry VTT integration for PTR2e and is not affiliated with Garena or Project KONGOR.
