@@ -45,6 +45,8 @@ Normal use requires no macro. A PTR2e attack with an effectiveness multiplier ab
 - CSS and data changes are not injected; playback is handled through Sequencer at runtime.
 - Socket playback is coordinated so every connected client receives one synchronized announcement.
 
-## Asset Notice
+## Asset Attribution
 
-The bundled announcement audio and animation are converted game-resource derivatives intended for use with this module. They are not covered by a broad code license and should not be redistributed separately without permission from the applicable rights holder.
+The bundled announcement audio and animation are derived from Heroes of Newerth resources distributed through [Project KONGOR Open Source](https://github.com/Project-KONGOR-Open-Source). Heroes of Newerth intellectual property belongs to Garena.
+
+This module is an independent Foundry VTT integration for PTR2e and is not affiliated with Garena or Project KONGOR.
